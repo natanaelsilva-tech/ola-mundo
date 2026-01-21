@@ -16,7 +16,7 @@ Este é o meu primeiro projeto web interativo, desenvolvido durante meu aprendiz
 - Botão interativo que exibe o código hexadecimal da cor aplicada.
 
 ## 🌐 Link do Projeto
-[Clique aqui para ver o site online](COLE_AQUI_O_SEU_LINK_DO_GITHUB_PAGES)
+[Clique aqui para ver o site online](https://natanaelsilva-tech.github.io/ola-mundo/)
 
 ---
 *Desenvolvido com dedicação por Natanael Silva.*
