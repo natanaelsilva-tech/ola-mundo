@@ -21,3 +21,19 @@ font-size: 1.5rem;
 text-align: center;
 margin-top: -20px;
 }
+
+button {
+padding: 12px 24px;
+font-size: 1,1rem;
+background-color: darkblue;
+color: white;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+margin-top: 20px;
+}
+
+button:hover {
+background-color: navy;
+transform: scale(1.05);
+}
